@@ -1,1 +1,1 @@
-print("Assalamu alaikum, Uzbekistan is located in central asia.")
+print("Assalamu alaikum, Uzbekistan is located in Central Asia.")
