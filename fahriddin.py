@@ -1,0 +1,1 @@
+print("Assalamu alaikum, Uzbekistan is located in central asia.")
