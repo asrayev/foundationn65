@@ -1,1 +1,3 @@
 print("Nimadur")
+
+print("Kimdur")
