@@ -1,3 +1,3 @@
-import colorama as c 
+from colorama import *
 while 1:
-    print(f"{c.Fore.RED}{"ERORR"} ",end="")
+    print(f"{Fore.RED}{"ERORR"} ",end="")
